@@ -1,0 +1,69 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+
+.main {
+display: flex;
+flex-direction: row-reverse;
+background-color: #E5E5E5;
+width: 1200px;
+margin: 0 auto;
+}
+
+/* main conntent styles */
+.main_content {
+    background-color: #FFFFFF;
+}
+
+/* about styles */
+
+.about {
+    background-color: yellow;
+}
+
+/* projects styles */
+
+.projects {
+    background-color: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+
+    /* margin: 100px 300px 60px 90px;
+    margin: 50px;
+    margin: 100px 50px; */
+}
+
+.project_title {
+    font-size: 45px;
+    color: blue;
+}
+
+/* work styles */
+
+.work {
+    background-color: cyan;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+
+    /* padding: 100px 50px 20px 40px;
+    padding: 50px;
+    padding: 50px 100px; */
+}
+
+/* education styles */
+
+.Education {
+    background-color: darkblue;
+}
+
+/* sidebar styles */
+.sidebar {
+    background-color: #1E2939;
+}
