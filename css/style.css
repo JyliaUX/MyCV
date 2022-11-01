@@ -15,9 +15,10 @@ margin: 0 auto;
 
 /* main conntent styles */
 .main_content {
-    background-color: #FFFFFF;
+    
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px;
+    background-image: url(https://damion.club/uploads/posts/2022-01/thumbs/1641676122_1-damion-club-p-fon-dlya-prezentatsii-po-pravu-1.jpg);
 }
 
 /* about styles */
@@ -53,9 +54,9 @@ margin: 0 auto;
     width: 400px;
 }
 
-/* projects styles */
+/* websites styles */
 
-.projects {
+.websites {
    margin-bottom: 50px;
 
     /* margin: 100px 300px 60px 90px;
@@ -63,7 +64,7 @@ margin: 0 auto;
     margin: 100px 50px; */
 }
 
-.projects_item {
+.websites_item {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -71,8 +72,8 @@ margin: 0 auto;
     color: #000000;
 }
 
-.project,
-.project_link {
+.website,
+.website_link {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -80,11 +81,11 @@ margin: 0 auto;
     color: #595959;
 }
 
-.project_link {
+.website_link {
     margin-left: 10px;
 }
 
-.project_bracket {
+.website_bracket {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -92,7 +93,7 @@ margin: 0 auto;
     color: #000000;
 }
 
-.projects_list {
+.websites_list {
     padding: 0%;
     margin-left: 15px;
 }
@@ -118,12 +119,13 @@ margin: 0 auto;
 
 .company_1,
 .company_2,
-.company_3 {
+.company_3,
+.company_4 {
     width: 500px;
     margin-right: 220px;
 }
 
-.company_3 {
+.company_4 {
     margin-bottom: 45px;
 }
 .work_position {
@@ -214,8 +216,8 @@ margin: 0 auto;
 }
 
 .contacts,
-.tech_skills,
-.soft_skills {
+.competence,
+.skills {
     margin-left: 40px;
 }
 
@@ -249,24 +251,24 @@ margin: 0 auto;
     color: #8E949C;
 }
 
-.tech_skills {
+.competence {
     margin-bottom: 44px;
 }
 
-.tech_skills_list,
-.soft_skills_list {
+.competence_list,
+.skills_list {
     color: #FFFFFF;
     padding: 0%;
     margin-left: 17px;
 }
 
-.tech_skills_item,
-.soft_skills_item {
+.competence_item,
+.skills_item {
     color: #FB6D3A;
 }
 
-.tech_skills_text,
-.soft_skills_text {
+.competence_text,
+.skills_text {
     color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
@@ -274,6 +276,6 @@ margin: 0 auto;
     line-height: 24px;
 }
 
-.soft_skills {
+.skills {
     margin-bottom: 366px;
 }
