@@ -281,7 +281,7 @@ margin: 0 auto;
     margin-bottom: 366px;
 }
 
-@media screen and (max-widht:1080px)
+@media screen and (max-width: 1200px)
 {
 .container {
 margin: 48px;
@@ -289,3 +289,19 @@ line-height: 29px;
 font-size:16px;
 }
 }
+
+@media screen and (max-width: 998px) {
+    font-size: 46px;
+
+}
+
+@media screen and (max-width: 768px) {
+    font-size: 28px;
+
+}
+
+@media screen and (max-width: 576px) {
+    font-size: 24px;
+
+}
+
