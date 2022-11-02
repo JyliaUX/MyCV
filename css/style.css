@@ -284,24 +284,26 @@ margin: 0 auto;
 @media screen and (max-width: 1200px)
 {
 .container {
-margin: 48px;
-line-height: 29px;
-font-size:16px;
+font-size: 56px;
 }
 }
 
 @media screen and (max-width: 998px) {
-    font-size: 46px;
-
+    .container {
+        font-size: 46px;
+        }
 }
 
 @media screen and (max-width: 768px) {
-    font-size: 28px;
-
+    .container {
+        font-size: 28px;
+        }
 }
 
 @media screen and (max-width: 576px) {
-    font-size: 24px;
+    .container {
+        font-size: 24px;
+        }
 
 }
 
