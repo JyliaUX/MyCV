@@ -280,3 +280,15 @@ margin: 0 auto;
 .skills {
     margin-bottom: 366px;
 }
+
+@media (orientation: landscape) {
+    body {
+     flex-direction: row;
+    }
+   /* При альбомному (горизонтальному) відображенні сайту його блоки відображатимуться в рядок */
+   }
+   @media (orientation: portrait) {
+    body {
+     flex-direction: column;
+    }
+   }
