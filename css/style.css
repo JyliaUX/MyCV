@@ -283,25 +283,25 @@ margin: 0 auto;
 
 @media screen and (max-width: 1200px)
 {
-.container {
+h1 {
 font-size: 56px;
 }
 }
 
 @media screen and (max-width: 998px) {
-    .container {
+    h1 {
         font-size: 46px;
         }
 }
 
 @media screen and (max-width: 768px) {
-    .container {
+    h1 {
         font-size: 28px;
         }
 }
 
 @media screen and (max-width: 576px) {
-    .container {
+    h1 {
         font-size: 24px;
         }
 
