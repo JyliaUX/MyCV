@@ -2,7 +2,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
-    margin: auto;
 }
 
 /* main styles */
@@ -19,7 +18,7 @@ margin: 0 auto;
     
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px;
-    background-image: url(https://damion.club/uploads/posts/2022-01/thumbs/1641676122_1-damion-club-p-fon-dlya-prezentatsii-po-pravu-1.jpg);
+    
 }
 
 /* about styles */
