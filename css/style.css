@@ -285,24 +285,32 @@ margin: 0 auto;
 {
 h1 {
 font-size: 56px;
+display: flex;
+flex-direction: inherit;
 }
 }
 
 @media screen and (max-width: 998px) {
     h1 {
         font-size: 46px;
+        display: flex;
+        flex-direction: inherit;
         }
 }
 
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 28px;
+        display: flex;
+        flex-direction: inherit;
         }
 }
 
 @media screen and (max-width: 576px) {
     h1 {
         font-size: 24px;
+        display: flex;
+        flex-direction: inherit;
         }
 
 }
